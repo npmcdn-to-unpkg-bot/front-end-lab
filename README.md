@@ -3,7 +3,7 @@ Conteúdo do curso de front-end apresentado no NTI.
 
 A ementa aborda os assuntos:
 
-	Planejamento de layout e UX
+	Organização do layout
 	Metodologias do design responsivo
 	Boas práticas no client-side (Organizando seu HTML e CSS)
 	Minificadores e Task Runners
