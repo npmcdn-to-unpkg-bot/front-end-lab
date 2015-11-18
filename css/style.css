@@ -20,7 +20,9 @@
 }
 
 @media screen and (max-width: 840px) {
-
+    * {
+        color: red !important;
+    }
 }
 
 @media screen and (max-width: 736px) {
@@ -71,6 +73,7 @@ input[type="button"] {
 }
 
 div {
+    max-width: 100%;
     width: 10em;
 }
 
