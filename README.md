@@ -1,5 +1,5 @@
 # front-end-project
-Conteúdo do curso de front-end apresentado no NTI.
+Conteúdo do curso de front-end.
 
 A ementa aborda os assuntos:
 
