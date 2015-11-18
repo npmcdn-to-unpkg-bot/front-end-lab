@@ -14,4 +14,8 @@ Referências:
 
 [Entendendo Sistemas de grids do zero - Tableless](http://tableless.com.br/entendendo-sistemas-de-grid-css-do-zero/)
 
+[Introdução a Media Queries - Tableless](http://tableless.com.br/introducao-sobre-media-queries/)
+
+[Design responsivo na prática II - Tableless](http://tableless.com.br/design-responsivo-na-pratica-2-layout-ao-html/)
+
 [Javascript Path - Github](https://github.com/javascript-society/javascript-path)
