@@ -1,7 +1,7 @@
-# front-end-project
-Conteúdo do curso de front-end.
+# front-end
+Material que estou utilizando para estudar front-end.
 
-A ementa aborda os assuntos:
+Assuntos para estudo:
 
 	Organização do layout
 	Metodologias do design responsivo
