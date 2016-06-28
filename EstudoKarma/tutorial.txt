@@ -1,0 +1,2 @@
+karma start karma.config.js
+trocar o navegador no arquivo karma.config.js

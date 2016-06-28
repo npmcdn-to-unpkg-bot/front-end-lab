@@ -1,0 +1,14 @@
+{
+  "name": "login-easyload",
+  "version": "1.0.0",
+  "description": "Login UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mshmeirelles",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
