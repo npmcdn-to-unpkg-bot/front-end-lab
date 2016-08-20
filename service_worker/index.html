@@ -2,9 +2,30 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title></title>
+        <title>Service Worker + Cache API (codelab)</title>
+        <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
-
+        <h1>Utilizando serviceWorker</h1>
+        <p>
+            Obrigatoriamente, service workers funcionam apenas em um escopo de HTTPS; uma vez que eles acessam dados críticos, permanecendo salvos no escopo de navegação do usuário e rodando em background.
+        </p>
     </body>
+
+    <script type="text/javascript">
+        // Verifica se o navegador é compatível com a implementação de serviceWorker
+        if ('serviceWorker' in navigator) {
+            // Registra o service worker utilizando promise de javascript
+            navigator.serviceWorker.register('/sw.js').then(function(reg) {
+                console.log(":^)", reg);
+            }).catch(function(error) {
+                console.log(':^(', error);
+            });
+        } else {
+            // Fallback
+        }
+    </script>
+
+    <!-- Importação do arquivo que representa o service Worker -->
+    <script src="sw.js"></script>
 </html>
